@@ -1,7 +1,7 @@
 # runner-aws
 aws runner (Gitlab)
 
-Should only use for staging and production
+Should use for container deploy
 
 https://hub.docker.com/r/localmeasure/runner-aws
 
