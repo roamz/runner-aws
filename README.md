@@ -8,3 +8,4 @@ https://hub.docker.com/r/localmeasure/runner-aws
 Installed:
 - aws-cli
 - ecs-cli
+- jq
