@@ -9,3 +9,5 @@ Installed:
 - aws-cli
 - ecs-cli
 - jq
+- yq
+- kubectl
