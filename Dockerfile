@@ -1,4 +1,4 @@
-FROM alpine:3.6
+FROM alpine:3.9
 
 RUN apk add --no-cache ca-certificates python3 curl jq
 RUN pip3 install pip awscli --upgrade
